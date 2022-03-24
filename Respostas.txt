@@ -1,0 +1,86 @@
+Respostas da Avaliação técnica
+
+Data: 24/03/2022
+Nome: Rafael Victor Silva Wandenkolk
+
+Questão 1
+E
+
+Questão 2
+A
+
+Questão 3
+D
+
+Questão 4
+A
+
+Questão 5
+B
+
+Questão 6
+C
+
+Questão 7
+B
+
+Questão 8
+A
+
+Questão 9
+A
+
+Questão 10
+E
+
+Questão 11
+E
+
+Questão 12
+B
+
+Questão 13
+B
+
+Questão 14
+A
+
+Questão 15
+B
+
+Questão 16
+A
+
+Questão 17
+A
+
+Questão 18
+B
+
+Questão 19
+B
+
+Questão 20
+C
+
+Questão 21
+Sessão normalmente é usado para um usuário que dura do login até o logout, application tem mais tempo de vida útil e é compartilhado entre os usuários.
+
+Questão 22
+TDD - Desenvolvimento orientado a testes, tem o objetivo de desenvolvimento de sistemas focado em teste desde o inicio.
+
+DDD - É um padrão de desenvolvimento como o objetivo de implementar regras de negócios e divisão de por responsabilidade em cadamas voltadas ao domínio da aplicação.
+
+MVC - É um padrão de arquitetura que separa a aplicação nas camadas Model, View e Controller.
+
+JDBC - É tecnologia utilizada para acesso ao banco de dados.
+
+ORM - É utilizado para mapeamento de tabelas do banco de dados em classes.
+
+Questão 23
+Java é um linguagem compilada e JavaScript é uma linguagem executada no browser.
+
+Questão 24
+O Entity Framework é um ORM para mapeamento das tabelas do banco de dados, facilida em alguns pontos, mas em comparação a outras formas de consultas como por exemplo o Dapper, o Entity é mais pesado e não tão rápido. É uma boa prática dependendo de como for as necessidades do sistema desenvolvido.
+
+Questão 25
